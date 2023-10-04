@@ -1,0 +1,71 @@
+Z:\visual basic\Stock managment project\Stock managment project\bin\Debug\Stock managment project.exe.config
+Z:\visual basic\Stock managment project\Stock managment project\bin\Debug\Stock managment project.exe
+Z:\visual basic\Stock managment project\Stock managment project\bin\Debug\Stock managment project.pdb
+Z:\visual basic\Stock managment project\Stock managment project\bin\Debug\Stock managment project.xml
+Z:\visual basic\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.Form1.resources
+Z:\visual basic\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.Resources.resources
+Z:\visual basic\Stock managment project\Stock managment project\obj\Debug\Stock managment project.vbproj.GenerateResource.cache
+Z:\visual basic\Stock managment project\Stock managment project\obj\Debug\Stock managment project.vbproj.CoreCompileInputs.cache
+Z:\visual basic\Stock managment project\Stock managment project\obj\Debug\Stock managment project.exe
+Z:\visual basic\Stock managment project\Stock managment project\obj\Debug\Stock managment project.xml
+Z:\visual basic\Stock managment project\Stock managment project\obj\Debug\Stock managment project.pdb
+Z:\visual basic\Stock managment project\Stock managment project\obj\Debug\Stock managment project.vbprojAssemblyReference.cache
+Z:\visual basic\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.Login.resources
+Z:\visual basic\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.Admin.resources
+Z:\visual basic\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.Editstock.resources
+Z:\visual basic\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.Addstock.resources
+Z:\visual basic\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.searchstock.resources
+Z:\visual basic\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.Stocklevel.resources
+Z:\visual basic\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.UserReport.resources
+Z:\visual basic\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.Updatestockinfo.resources
+Z:\visual basic\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.RemovePurchase.resources
+Z:\visual basic\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.ProfitCalculator.resources
+Z:\visual basic\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.Staff.resources
+C:\Users\Sam\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\bin\Debug\Stock managment project.exe.config
+C:\Users\Sam\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\bin\Debug\Stock managment project.exe
+C:\Users\Sam\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\bin\Debug\Stock managment project.pdb
+C:\Users\Sam\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\bin\Debug\Stock managment project.xml
+C:\Users\Sam\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock managment project.vbprojAssemblyReference.cache
+C:\Users\Sam\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.Addstock.resources
+C:\Users\Sam\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.Admin.resources
+C:\Users\Sam\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.Editstock.resources
+C:\Users\Sam\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.Form1.resources
+C:\Users\Sam\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.Login.resources
+C:\Users\Sam\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.Resources.resources
+C:\Users\Sam\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.ProfitCalculator.resources
+C:\Users\Sam\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.RemovePurchase.resources
+C:\Users\Sam\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.searchstock.resources
+C:\Users\Sam\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.Staff.resources
+C:\Users\Sam\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.Stocklevel.resources
+C:\Users\Sam\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.Updatestockinfo.resources
+C:\Users\Sam\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.UserReport.resources
+C:\Users\Sam\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock managment project.vbproj.GenerateResource.cache
+C:\Users\Sam\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock managment project.vbproj.CoreCompileInputs.cache
+C:\Users\Sam\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock managment project.exe
+C:\Users\Sam\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock managment project.xml
+C:\Users\Sam\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock managment project.pdb
+C:\Users\samwi\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock managment project.vbproj.AssemblyReference.cache
+C:\Users\samwi\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock managment project.vbproj.SuggestedBindingRedirects.cache
+C:\Users\samwi\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock managment project.exe
+C:\Users\samwi\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock managment project.xml
+C:\Users\samwi\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock managment project.pdb
+C:\Users\samwi\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\bin\Debug\Stock managment project.exe.config
+C:\Users\samwi\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\bin\Debug\Stock managment project.exe
+C:\Users\samwi\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\bin\Debug\Stock managment project.pdb
+C:\Users\samwi\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\bin\Debug\Stock managment project.xml
+C:\Users\samwi\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.Addstock.resources
+C:\Users\samwi\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.Admin.resources
+C:\Users\samwi\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.Editstock.resources
+C:\Users\samwi\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.Form1.resources
+C:\Users\samwi\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.Login.resources
+C:\Users\samwi\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.Resources.resources
+C:\Users\samwi\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.ProfitCalculator.resources
+C:\Users\samwi\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.RemovePurchase.resources
+C:\Users\samwi\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.searchstock.resources
+C:\Users\samwi\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.Staff.resources
+C:\Users\samwi\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.Stocklevel.resources
+C:\Users\samwi\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.Updatestockinfo.resources
+C:\Users\samwi\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.UserReport.resources
+C:\Users\samwi\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock managment project.vbproj.GenerateResource.cache
+C:\Users\samwi\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock managment project.vbproj.CoreCompileInputs.cache
+C:\Users\samwi\vb\Stock managment project-20220623T120003Z-001\Stock managment project\Stock managment project\obj\Debug\Stock_managment_project.New_Forgot.resources
